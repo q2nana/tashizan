@@ -605,6 +605,10 @@ p {
     background-color: #ccc;
   }
 
+  td:hover {
+    background-color: #ccc;
+  }
+
   .numdate.display {
     display: block;
   }
