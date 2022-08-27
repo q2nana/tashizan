@@ -592,12 +592,17 @@ p {
     display: none;
   }
 
+
   td {
     outline: 1px solid #ccc;
     background-color: #fff;
     width: 80px;
     height: 50px;
     text-align: center;
+  }
+
+  td:active {
+    background-color: #ccc;
   }
 
   .numdate.display {
